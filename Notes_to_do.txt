@@ -1,1 +1,1 @@
-solve() for square matrics
+the functions should be made a little more robust to insure only a square matrix is submitted to solve.
